@@ -1,2 +1,2 @@
 # rhoEnergyReactingFoam
-Modification of rhoEnergyFoam solver for combustion simulations
+## Modification of rhoEnergyFoam solver for combustion simulations
